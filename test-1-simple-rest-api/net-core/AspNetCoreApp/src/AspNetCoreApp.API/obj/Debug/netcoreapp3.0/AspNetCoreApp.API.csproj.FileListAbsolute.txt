@@ -1,0 +1,17 @@
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/bin/Debug/netcoreapp3.0/AspNetCoreApp.API
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/bin/Debug/netcoreapp3.0/AspNetCoreApp.API.deps.json
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/bin/Debug/netcoreapp3.0/AspNetCoreApp.API.runtimeconfig.json
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/bin/Debug/netcoreapp3.0/AspNetCoreApp.API.runtimeconfig.dev.json
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/bin/Debug/netcoreapp3.0/AspNetCoreApp.API.dll
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/bin/Debug/netcoreapp3.0/AspNetCoreApp.API.pdb
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/obj/Debug/netcoreapp3.0/AspNetCoreApp.API.csprojAssemblyReference.cache
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/obj/Debug/netcoreapp3.0/AspNetCoreApp.API.csproj.CoreCompileInputs.cache
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/obj/Debug/netcoreapp3.0/AspNetCoreApp.API.RazorAssemblyInfo.cache
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/obj/Debug/netcoreapp3.0/AspNetCoreApp.API.RazorAssemblyInfo.cs
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/obj/Debug/netcoreapp3.0/AspNetCoreApp.API.AssemblyInfoInputs.cache
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/obj/Debug/netcoreapp3.0/AspNetCoreApp.API.AssemblyInfo.cs
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/obj/Debug/netcoreapp3.0/AspNetCoreApp.API.RazorTargetAssemblyInfo.cache
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/obj/Debug/netcoreapp3.0/AspNetCoreApp.API.dll
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/obj/Debug/netcoreapp3.0/AspNetCoreApp.API.pdb
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/bin/Debug/netcoreapp3.0/System.Threading.Atomics.dll
+/Users/peacecwz/Documents/NetCore/Sampels/AspNetCoreApp/src/AspNetCoreApp.API/obj/Debug/netcoreapp3.0/AspNetCoreApp.API.csproj.CopyComplete
